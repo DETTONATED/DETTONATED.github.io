@@ -2,7 +2,7 @@
 
 A fully interactive, single-file portfolio website built to showcase my journey as a Data Science aspirant — featuring live ML model inference, live Power BI & Tableau embeds, and a dynamic project system.
 
-**🔗 Live Site:** [Add your GitHub Pages link here]
+**🔗 Live Site:** https://dettonated.github.io/
 
 ---
 
